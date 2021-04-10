@@ -73,4 +73,4 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 ![Timberstone Golf Course](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/Timberstone%20Golf.png)
 
 ### Escanaba, Michigan (with orthophotos)
-![Escanaba, Michigan](
+![Escanaba, Michigan](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/Escanaba.png)

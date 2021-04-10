@@ -68,4 +68,4 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 ![Looking East Over Residential Green Bay](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/Looking%20East%20%20Over%20Green%20Bay.png)
 
 ### Whitman Field, Oshkosh, WI (Home of the EAA) (no orthophotos)
-![Whitman Field, Oshkosh, WI](
+![Whitman Field, Oshkosh, WI](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/KOSH.png)

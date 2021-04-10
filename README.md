@@ -42,9 +42,8 @@ This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-
 
 To download the custom scenery files, go to the Releases page and download the zip archives.
 
-## Installation
+## To Install
 
-To install:
 1) Create a directory on your local hard drive
 2) Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and Orthophotos,zip 
 3) Extract the files into the local directory you've created. 

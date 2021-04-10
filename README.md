@@ -59,6 +59,10 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
  7) Make the selections you want to use for your next flight then click "Fly", as usual.
  8) Rendering Options enable OSM buildings, detailed roads and pylons under 
 
+## Screenshots
+
+### Turn to final approach, KGRB (Austin-Strabel International)
 ![Turn to final, KGRB](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/Appr%20to%20KGRB.png)
 
-![Looking East Over Residential Green Bay](
+### Looking East Toward the Downtown Area of Green Bay
+![Looking East Over Residential Green Bay](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/Looking%20East%20%20Over%20Green%20Bay.png)

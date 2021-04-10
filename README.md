@@ -61,7 +61,7 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 
 ## Screenshots
 
-### Turn to final approach, KGRB (Austin-Strabel International)
+### Turn to final approach, KGRB (Austin-Straubel International)
 ![Turn to final, KGRB](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/Appr%20to%20KGRB.png)
 
 ### Looking East Toward the Downtown Area of Green Bay

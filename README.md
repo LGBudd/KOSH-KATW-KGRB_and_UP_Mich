@@ -68,3 +68,9 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 
 ### Whitman Field, Oshkosh, WI (Home of the EAA) (no orthophotos)
 ![Whitman Field, Oshkosh, WI](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/KOSH.png)
+
+### Timberstone Golf Course, Iron Mountain, MI (with orthophotos)
+![Timberstone Golf Course](https://github.com/LGBudd/KOSH-KATW-KGRB_and_UP_Mich/blob/main/Screenshots/Timberstone%20Golf.png)
+
+### Escanaba, Michigan (with orthophotos)
+![Escanaba, Michigan](

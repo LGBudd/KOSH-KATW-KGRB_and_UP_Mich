@@ -1,5 +1,5 @@
 # KOSH-KATW-KGRB_and_UP_Mich
-Custom NLCD Scenery for Oshkosh, Appleton, Green Bay and Central Upper Michigan Airports and surrouindings
+Custom NLCD scenery for east central Wisconsin north to and including the Upper Peninsula of Michigan. This includes airports KOSH, KATW, KGRB, KIMT, KESC, KSAW and KCMX.
 
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.

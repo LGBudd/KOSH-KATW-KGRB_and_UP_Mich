@@ -19,6 +19,7 @@ Custom scenery for the Oshkosh (KOSH), Appleton (KATW), Green Bay (KGRB) and Upp
   - max lat 48.0
   - min lon -89.0
   - max lon -87.0 
+- Custom Material definitions and Textures for the area to make the land cover more realistic.
 - Optional USGS orthophotos around major airports and some smaller airports within the included area.
 - Groundnets for the major airports within the area (KATW, KGRB, KCMX) have been uploaded to Terrasync and now are included in the FlightGear database.
 - Terrasync objects placed at KOSH, KIMT, KESC, KCMX, KSAW

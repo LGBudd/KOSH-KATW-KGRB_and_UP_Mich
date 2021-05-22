@@ -40,7 +40,7 @@ This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-
 
 ### To Download
 
-To download the custom scenery files, go to the Releases page and download the zip archives.
+To download the custom scenery files, go to the [to be determined] page and download the zip archives.
 
 ## To Install
 

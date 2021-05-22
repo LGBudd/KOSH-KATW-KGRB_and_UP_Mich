@@ -61,7 +61,7 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 ### Commercial and General Aviation Add-on Traffic Files DAL-UP and Gen-UP
 Add-on traffic files were generated for the area. The files add daily Delta flights to the UP of Michigan which were not included in the DAL traffic file released with FlightGear up to version 2020.3.8. To install these, simply:
 1) Extract the files into a temporary directory of your choosing.
-2) Cut the files into the appropriate directory "D" or "G" within the \FlightGear [version]\data\AI\Traffic\ folder.
+2) Cut the files and paste into the appropriate directory "D" or "G" within the \FlightGear [version]\data\AI\Traffic\ folder.
 
 ## Screenshots
 

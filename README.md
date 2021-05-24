@@ -26,7 +26,7 @@ Custom scenery for the Oshkosh (KOSH), Appleton (KATW), Green Bay (KGRB) and Upp
 - OSM2City objects within the area
 
 ### NOTE: 
-This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-KATW-KGRB_and_UP-Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 
+This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-KATW-KGRB_and_UP-Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 
 
 ### Data Sources
 
@@ -50,13 +50,13 @@ To download the custom scenery files, go to the [to be determined] page and down
 
 For example, create a directory called "KORD-KMKE" on your computer. Extract the downloaded files into this directory. 
 
-1. Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
-1. To use the custom materials definitions and custom textures created:
-    1. Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
-    1. Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
- 1. Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
- 1. Make the selections you want to use for your next flight then click "Fly", as usual.
- 1. Rendering Options enable OSM buildings, detailed roads and pylons under 
+1.  Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
+1.  To use the custom materials definitions and custom textures created:
+    1.  Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
+    1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
+ 1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
+ 1.  Make the selections you want to use for your next flight then click "Fly", as usual.
+ 1.  Rendering Options enable OSM buildings, detailed roads and pylons under 
 
 ### Commercial and General Aviation Add-on Traffic Files DAL-UP and Gen-UP
 Add-on traffic files were generated for the area. The files add daily Delta flights to the UP of Michigan which were not included in the DAL traffic file released with FlightGear up to version 2020.3.8. To install these, simply:

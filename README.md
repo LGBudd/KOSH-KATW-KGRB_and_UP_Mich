@@ -48,7 +48,7 @@ To download the custom scenery files, go to the [to be determined] page and down
 1. Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and Orthophotos,zip 
 1. Extract the files into the local directory you've created. 
 
-For example, create a directory called "KORD-KMKE" on your computer. Extract the downloaded files into this directory. 
+    For example, create a directory called "KORD-KMKE" on your computer. Extract the downloaded files into this directory. 
 
 1.  Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
 1.  To use the custom materials definitions and custom textures created:

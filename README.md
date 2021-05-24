@@ -48,13 +48,13 @@ To download the custom scenery files, go to the [to be determined] page and down
 1. Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and Orthophotos,zip 
 1. Extract the files into the local directory you've created. 
 
-    For example, create a directory called "KORD-KMKE" on your computer. Extract the downloaded files into this directory. 
+    For example, create a directory called "KOSH-KATW-KGRB-UP" on your computer. Extract the downloaded files into this directory. 
 
 1.  Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
 1.  To use the custom materials definitions and custom textures created:
-    1.  Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
-    1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
- 1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
+    1.  Download NWisc-data.zip and extract it. Rename the folder to "data.zip".
+    1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in wisconsin_north_and_up_michigan.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "NWisc" in the "$FG_ROOT/Textures/Terrain/" directory.
+ 1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, then click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
  1.  Make the selections you want to use for your next flight then click "Fly", as usual.
  1.  Rendering Options enable OSM buildings, detailed roads and pylons under 
 

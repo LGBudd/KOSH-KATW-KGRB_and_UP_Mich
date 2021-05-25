@@ -1,5 +1,5 @@
 # KOSH-KATW-KGRB_and_UP_Mich
-Custom NLCD scenery for east central Wisconsin north to and including the Upper Peninsula of Michigan. This includes airports KOSH, KATW, KGRB, KIMT, KESC, KSAW and KCMX.
+Custom NLCD scenery for east central Wisconsin north to and including the Upper Peninsula of Michigan. This includes airports KOSH (Oshkosh), KATW (Appleton), KGRB (Green Bay), KIMT (Iron Mountain), KESC (Escanaba), KSAW (Marquette) and KCMX (Houghton), as well as many others.
 
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
@@ -45,7 +45,7 @@ To download the custom scenery files, go to the [to be determined] page and down
 ## To Install
 
 1. Create a directory on your local hard drive
-1. Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and Orthophotos,zip 
+1. Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and (optional) Orthophotos,zip 
 1. Extract the files into the local directory you've created. 
 
     For example, create a directory called "KOSH-KATW-KGRB-UP" on your computer. Extract the downloaded files into this directory. 

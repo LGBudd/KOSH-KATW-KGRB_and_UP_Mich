@@ -23,7 +23,7 @@ Custom scenery for the Oshkosh (KOSH), Appleton (KATW), Green Bay (KGRB) and Upp
 - Optional USGS orthophotos around major airports and some smaller airports within the included area.
 - Groundnets for the major airports within the area (KATW, KGRB, KCMX) have been uploaded to Terrasync and now are included in the FlightGear database.
 - Terrasync objects placed at KOSH, KIMT, KESC, KCMX, KSAW
-- OSM2City objects within the area
+- OSM2City worldbuild objects within the area as it was found that elevation differences were not significant.
 
 ### NOTE: 
 This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-KATW-KGRB_and_UP-Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 

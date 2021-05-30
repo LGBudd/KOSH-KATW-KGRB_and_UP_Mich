@@ -45,7 +45,7 @@ To download the custom scenery files, go to the https://drive.google.com/drive/f
 ## To Install
 
 1. Create a directory on your local hard drive
-1. Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and (optional) Orthophotos,zip 
+1. Download Buildings.zip, Details.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and (optional) Orthophotos,zip 
 1. Extract the files into the local directory you've created. 
 
     For example, create a directory called "KOSH-KATW-KGRB-UP" on your computer. Extract the downloaded files into this directory. 

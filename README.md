@@ -40,7 +40,11 @@ This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-
 
 ### To Download
 
+Note that the file KORD-KMKE_Data_Files.zip is quite large in size but is NOT NEEDED for the scenery, only for further development, should that be desired. It is not not needed unless you are a developer.
+
 To download the custom scenery files, go to the https://drive.google.com/drive/folders/1M9WjElL-fEfNbW6i0KpBB4yiV9rxb0Pk?usp=sharing page and download the zip archives.
+
+The KOSH-KATW-KGRB_and_UP_Mich Custom Scenery files are available for download at the following link https://drive.google.com/drive/folders/1M9WjElL-fEfNbW6i0KpBB4yiV9rxb0Pk?usp=sharing. There you can download the following zip archives: Airports.zip, Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file Illinois-data.zip, which should help make the scenery more realistic.
 
 ## To Install
 

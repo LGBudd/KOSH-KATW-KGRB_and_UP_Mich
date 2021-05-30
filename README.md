@@ -25,6 +25,8 @@ Custom scenery for the Oshkosh (KOSH), Appleton (KATW), Green Bay (KGRB) and Upp
 - Terrasync objects placed at KOSH, KIMT, KESC, KCMX, KSAW
 - OSM2City worldbuild objects within the area as it was found that elevation differences were not significant.
 
+The zip archives were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The file repository on Google Drive includes the source data.
+
 ### NOTE: 
 This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-KATW-KGRB_and_UP-Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 
 
@@ -42,9 +44,7 @@ This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-
 
 Note that the file KORD-KMKE_Data_Files.zip is quite large in size but is NOT NEEDED for the scenery, only for further development, should that be desired. It is not not needed unless you are a developer.
 
-To download the custom scenery files, go to the https://drive.google.com/drive/folders/1M9WjElL-fEfNbW6i0KpBB4yiV9rxb0Pk?usp=sharing page and download the zip archives.
-
-The KOSH-KATW-KGRB_and_UP_Mich Custom Scenery files are available for download at the following link https://drive.google.com/drive/folders/1M9WjElL-fEfNbW6i0KpBB4yiV9rxb0Pk?usp=sharing. There you can download the following zip archives: Airports.zip, Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file Illinois-data.zip, which should help make the scenery more realistic.
+The KOSH-KATW-KGRB_and_UP_Mich Custom Scenery files are available for download at the following link https://drive.google.com/drive/folders/1M9WjElL-fEfNbW6i0KpBB4yiV9rxb0Pk?usp=sharing. There you can download the following zip archives: Airports.zip, Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Details.zip, Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file nwisc-data.zip, which should help make the scenery more realistic.
 
 ## To Install
 

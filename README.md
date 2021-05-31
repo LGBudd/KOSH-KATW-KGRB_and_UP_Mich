@@ -26,7 +26,7 @@ Custom scenery for the Oshkosh (KOSH), Appleton (KATW), Green Bay (KGRB) and Upp
 The zip archives were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The file repository on Google Drive includes the source data.
 
 ### NOTE: 
-This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-KATW-KGRB_and_UP-Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with NLCD scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 
+This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-KATW-KGRB_and_UP-Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich-Custom-Scenery) will minimize issues at the scenery borders. They also provide a significant North-South flight area with NLCD scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 
 
 ### Data Sources
 

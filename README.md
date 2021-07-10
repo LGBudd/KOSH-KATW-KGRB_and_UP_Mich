@@ -1,5 +1,5 @@
-# KOSH-KATW-KGRB_and_UP_Mich
-Custom NLCD scenery for east central Wisconsin north to and including the Upper Peninsula of Michigan. This includes airports KOSH (Oshkosh), KATW (Appleton), KGRB (Green Bay), KIMT (Iron Mountain), KESC (Escanaba), KSAW (Marquette) and KCMX (Houghton), as well as many others.
+# USA-Midwest-North-Central-Wisc-UP-Mich
+Custom NLCD scenery for north central Wisconsin north to and including the Upper Peninsula of Michigan. This includes airports KOSH (Oshkosh), KATW (Appleton), KGRB (Green Bay), KIMT (Iron Mountain), KESC (Escanaba), KSAW (Marquette) and KCMX (Houghton), as well as many others.
 
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
@@ -26,7 +26,7 @@ Custom scenery for the Oshkosh (KOSH), Appleton (KATW), Green Bay (KGRB) and Upp
 The zip archives were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The file repository on Google Drive includes the source data.
 
 ### NOTE: 
-This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-KATW-KGRB_and_UP-Mich" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and KOSH-KATW-KGRB_and_UP_Mich-Custom-Scenery) will minimize issues at the scenery borders. They also provide a significant North-South flight area with NLCD scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 
+This scenery is best when used together with "Champaign", "USA-Midwest-Illinois&Wisc-KORD-KMKE" and "USA-Midwest-North-Central-Wisc-UP-Mich" custom scenery. Use of these three custom sceneries together (USA-Midwest-Illinois&Wisc-KORD-KMKE, Champaign-Custom-Scenery and USA-Midwest-North-Central-Wisc-UP-Miich) will minimize issues at the scenery borders. They also provide a significant North-South flight area with NLCD scenery. For the area covered near KOSH (Oshkosh, WI and home of the Experimental Aircraft Association's Convention each year), KORD-KMKE and this custom scenery MUST be used together. 
 
 ### Data Sources
 
@@ -42,23 +42,25 @@ This scenery is best when used together with "Champaign", "KORD-KMKE" and "KOSH-
 
 Note that the file KOSH-KATW-KGRB_and_UP_Mich_Source.zip is quite large in size but is NOT NEEDED for the scenery, only for further development, should that be desired. It is not needed unless you are a developer.
 
-The KOSH-KATW-KGRB_and_UP_Mich Custom Scenery files are available for download at the following link https://drive.google.com/drive/folders/1M9WjElL-fEfNbW6i0KpBB4yiV9rxb0Pk?usp=sharing. There you can download the following zip archives: Airports.zip, Buildings.zip, Details.zip, Objects.zip, Pylons.zip, Roads.zip,  Terrain.zip and (optionally) Orthophotos.zip. You may also download custom materials definitions and textures in the file nwisc-data.zip, which should help make the scenery more realistic.
+The USA-Midwest-North-Central-Wisc-UP-Mich custom scenery files are available for download at the following link https://drive.google.com/drive/folders/1M9WjElL-fEfNbW6i0KpBB4yiV9rxb0Pk?usp=sharing. There you can download the following zip archives: USA-Midwest-North-Central-Wisc-UP-Mich.zip and (optionally) USA-Midwest-North-Central-Wisc-UP-Mich-Orthophotos.zip. You may also download custom materials definitions and textures in the file USA-Midwest-nwisc-data.zip, which should help make the scenery more realistic.
 
 ## To Install
 
 1. Create a directory on your local hard drive
-1. Download Buildings.zip, Details.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and (optional) Orthophotos,zip 
+1. Download USA-Midwest-North-Central-Wisc-UP-Mich.zip, and (optional) USA-Midwest-North-Central-Wisc-UP-Mich-Orthophotos,zip 
 1. Extract the files into the local directory you've created. 
 
-    For example, create a directory called "KOSH-KATW-KGRB-UP" on your computer. Extract the downloaded files into this directory. 
+    For example, create a directory called "USA-Midwest-North-Central-Wisc-UP-Mich" on your computer. Extract the downloaded files into this directory. 
 
 1.  Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
 1.  To use the custom materials definitions and custom textures created:
     1.  Download nwisc-data.zip and extract it. Rename the folder to "data.zip".
     1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in wisconsin_north_and_up_michigan.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "NWisc" in the "$FG_ROOT/Textures/Terrain/" directory.
-    1.  Copy the following: `<region include="Materials/regions/novascotia-pei-newbrunswick.xml"/>`
-    1.  Paste the above into the "materials.xml" file within the "North America" section and save "materials.xml". 
- 1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, then click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. NOTE: If using more than one of the three sceneries mentioned in the "Chicago and Milwaukee Area Custom Scenery" section above, you must order them as follows to minimize issues at the scenery borders: KOSH-KATW-KGRB_and_UP_Mich (top), KORD-KMKE (middle), and Champaign (bottom).
+    1.  Copy the following: `<region include="Materials/regions/wisconsin_central.xml"/>` 
+    2.  Paste the above into the "materials.xml" file within the "North America" section and save "materials.xml".
+    3.  Copy the following: `<region include="Materials/regions/wisconsin_north_and_up_michigan.xml"/>`                     '
+    4.  Paste the above into the "materials.xml" file within the "North America" section and save "materials.xml". 
+ 1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, then click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. NOTE: If using more than one of the three sceneries mentioned in the "Chicago and Milwaukee Area Custom Scenery" section above, you must order them as follows to minimize issues at the scenery borders: USA-Midwest-North-Central-Wisc-UP-Mich (top), USA-Midwest-Illinois&Wisc-KORD-KMKE (middle), and Champaign (bottom).
  1.  Make the selections you want to use for your next flight then click "Fly", as usual.
  1.  Go to View, Rendering Options and make selections to enable Pylons and Power Lines, Detailed Roads and Railways, Buildings (OpenStreetMap Data), Random Scenery Objects, Autogenerated Vegetation, OpenStreetMap Trees, Vegetation Shadows, and Scenery Objects, as appropriate for good performance on your computer.
 
